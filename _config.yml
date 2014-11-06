@@ -13,9 +13,9 @@ tagline: Site Tagline
 author :
   name : MaradonaSu
   email : Maradonasu@hotmail.com
-  github : Maradonasu
-  twitter : Maradonasu
-  feedburner : Maradonasu
+  github : maradonasu
+  twitter : maradonasu
+  feedburner : maradonasu
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
